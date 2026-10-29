@@ -1,0 +1,20 @@
+// Cloudflare config. Replace every <...> value; see README, "Sett opp din egen".
+// Build first (npm run build), then deploy with npx wrangler@4 deploy, or let Workers Builds do both.
+{
+  "name": "matplanlegger",
+  "main": "dist/server/index.js",
+  "compatibility_date": "2026-10-01",
+  "workers_dev": true,
+  "preview_urls": false,
+  "no_bundle": true,
+  "d1_databases": [
+    { "binding": "DB", "database_name": "matplanlegger", "database_id": "<D1-database-id>" }
+  ],
+  // Every request is rejected with 403 until ACCESS_TEAM_DOMAIN and ACCESS_AUD are filled in.
+  "vars": {
+    "ACCESS_TEAM_DOMAIN": "",
+    "ACCESS_AUD": "",
+    // JSON from login email to display name, e.g. {"kari@example.com":"Kari","ola@example.com":"Ola"}
+    "DISPLAY_NAMES": "{}"
+  }
+}

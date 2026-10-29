@@ -1,0 +1,521 @@
+[
+  {
+    "id": "eksempel-uke",
+    "title": "Eksempeluke – sju middager",
+    "subtitle": "Eksempelmeny",
+    "status": "Eksempel",
+    "servingsLabel": "Til 2 voksne og 1 barn",
+    "notice": "Dette er en eksempelmeny. Erstatt den med deres egen uke i content/menus.json (nyeste uke først).",
+    "dishes": [
+      {
+        "id": "eksempel-dag1",
+        "day": "Mandag",
+        "label": "Mandag",
+        "title": "Sitron- og oreganokylling med ovnsgrønt og yoghurtsaus",
+        "note": "Ca. 35–45 minutter · mild, men tydelig krydret.",
+        "ingredients": [
+          "1,1 kg kyllingfilet",
+          "2 ss olivenolje",
+          "3 hvitløksfedd, finrevet",
+          "2 ts oregano",
+          "2 ts paprikapulver, mildt",
+          "1 ts fint salt og ½ ts pepper",
+          "Finrevet skall av 1 økologisk sitron + 1 ss av saften",
+          "2 gulrøtter",
+          "1 stor paprika",
+          "1 pose KUTTA Hverdagsmiks, 300 g",
+          "1 ss olivenolje og ¼ ts salt",
+          "2 dl jasminris",
+          "1½ dl tyrkisk yoghurt",
+          "1 lite hvitløksfedd, finrevet",
+          "2 ts sitronsaft fra samme sitron",
+          "¼ ts salt, pepper etter smak"
+        ],
+        "steps": [
+          "Varm ovnen: Sett på 200 °C varmluft. Finn frem et stekebrett til grønnsakene og en romslig ildfast form til kyllingen.",
+          "Kutt grønnsakene: Skjær 2 gulrøtter i tynne staver og 1 stor paprika i brede strimler. KUTTA-posen skal ikke tilsettes ennå.",
+          "Start grønnsakene: Vend gulrot og paprika med 1 ss olje og ¼ ts salt på brettet. Sett brettet på øvre midtre rille. Stek i 10 minutter; sett en timer.",
+          "Krydre kyllingen: Bland 2 ss olje, 3 revne hvitløksfedd, 2 ts oregano, 2 ts mild paprika, 1 ts salt, ½ ts pepper, sitronskall og 1 ss sitronsaft i kyllingformen.",
+          "Legg kyllingen i formen: Del 1,1 kg kyllingfilet på langs til omtrent 2 cm tykke stykker. Vend dem godt i krydderblandingen og legg i ett lag uten overlapping. Vask hender og redskaper etter rå kylling.",
+          "Sett inn kyllingen: Når grønnsakene har stekt i 10 minutter, bland inn hele KUTTA-posen på grønnsaksbrettet. Sett kyllingformen på nedre midtre rille. Stek begge i ytterligere ca. 12–18 minutter.",
+          "Kok risen mens ovnen jobber: Kok 2 dl jasminris med vannmengde og tid angitt på pakningen.",
+          "Lag sausen: Bland 1½ dl yoghurt, 1 lite revet hvitløksfedd, 2 ts sitronsaft og ¼ ts salt. Smak til med pepper. Sausen skal smake tydelig av sitron og hvitløk; juster med noen dråper mer sitron om nødvendig.",
+          "Kontroller maten: Mål kyllingen i den tykkeste delen; ta den ut ved 75 °C. Start kontrollen tidlig på tynne biter. La hvile 3 minutter. Grønnsakene skal være møre og ha litt brunfarge; la dem stå noen minutter ekstra om nødvendig.",
+          "Sett av rester: Vei den ferdige kyllingen og legg halvparten i en ren, grunn beholder før servering. Fordel litt stekesjy på både dagens kjøtt og resteporsjonen.",
+          "Server: Fordel dagens halvpart av kyllingen med grønnsaker, ris og yoghurtsaus. Smak på én kyllingbit sammen med saus; juster med en liten klype salt eller litt sitronsaft ved behov."
+        ],
+        "pantry": "Mengdene over gjelder denne tilberedningen. Vann til ris/pasta følger pakningen.",
+        "ingredientGroups": [
+          {
+            "title": "Kylling – totalt til mandag og onsdag",
+            "items": [
+              "1,1 kg kyllingfilet",
+              "2 ss olivenolje",
+              "3 hvitløksfedd, finrevet",
+              "2 ts oregano",
+              "2 ts paprikapulver, mildt",
+              "1 ts fint salt og ½ ts pepper",
+              "Finrevet skall av 1 økologisk sitron + 1 ss av saften"
+            ]
+          },
+          {
+            "title": "Grønnsaker – til dagens middag",
+            "items": [
+              "2 gulrøtter",
+              "1 stor paprika",
+              "1 pose KUTTA Hverdagsmiks, 300 g",
+              "1 ss olivenolje og ¼ ts salt"
+            ]
+          },
+          {
+            "title": "Ris",
+            "items": [
+              "2 dl jasminris"
+            ]
+          },
+          {
+            "title": "Sitron- og hvitløksyoghurt",
+            "items": [
+              "1½ dl tyrkisk yoghurt",
+              "1 lite hvitløksfedd, finrevet",
+              "2 ts sitronsaft fra samme sitron",
+              "¼ ts salt, pepper etter smak"
+            ]
+          }
+        ],
+        "leftovers": "Halvparten av den ferdigstekte kyllingen kan settes av til matpakker eller en enkel lunsj. Kjøl raskt ned og sett tildekket ved høyst 4 °C innen cirka to timer."
+      },
+      {
+        "id": "eksempel-dag2",
+        "day": "Tirsdag",
+        "label": "Tirsdag",
+        "title": "Biffstrimler med kremet soppsaus og ovnsbakte grønnsaker",
+        "note": "Ca. 35 minutter · biffstrimler, kremet soppsaus og ovnsgrønt.",
+        "ingredients": [
+          "450 g mørnede biffstrimler",
+          "1 ts olivenolje",
+          "1 ss smør",
+          "Salt og pepper etter smak",
+          "1 brokkolihode",
+          "3 gulrøtter",
+          "2 ts olivenolje og ¼ ts salt",
+          "1 boks sjampinjong",
+          "1 liten løk",
+          "1 ss smør",
+          "2 dl Røros-lettrømme",
+          "10 ml soyasaus (2 ts)",
+          "½ dl vann",
+          "Noen dråper sitronsaft og pepper etter smak"
+        ],
+        "steps": [
+          "Varm ovnen: Sett på 210 °C over-/undervarme. Finn frem et stekebrett og en stor stekepanne.",
+          "Kutt grønnsakene: Skjær 3 gulrøtter i tynne staver. Del 1 brokkolihode i buketter og skrelt stilk i skiver.",
+          "Stek ovnsgrønnsakene: Vend gulroten med 1 ts olje og litt av saltet. Stek i 8 minutter. Tilsett brokkoli vendt i 1 ts olje og resten av saltet. Stek videre i 12–15 minutter til mørt.",
+          "Gjør klart til sausen mens grønnsakene steker: Skjær soppen i skiver og finhakk 1 liten løk. Tørk biffstrimlene med kjøkkenpapir.",
+          "Stek sopp og løk: Stek soppen i tørr, varm panne til væsken fordamper. Tilsett 1 ss smør og løken. Stek til løken er myk. Legg på en tallerken.",
+          "Brun biffen: Varm 1 ts olje i samme panne på middels høy varme. Stek 450 g biffstrimler i små omganger så alle sider får brunfarge. Tilsett 1 ss smør mot slutten. Krydre lett og legg kjøttet på en varm tallerken.",
+          "Lag sausbasen: Ha sopp og løk tilbake i pannen. Tilsett ½ dl vann og løsne stekesjyen. Kok inn til omtrent 2–3 ss væske. Trekk pannen av varmen.",
+          "Rør inn rømmen: Bland litt varm sjy med 2 dl rømme i en skål. Vend deretter rømmen inn i soppen sammen med 2 ts soyasaus. Varm bare forsiktig ved behov; sausen skal ikke koke.",
+          "Smak til og server: Smak sausen til med pepper og noen dråper sitron om nødvendig. Rør inn kjøttsaften fra tallerkenen. Server biffen med saus og ovnsgrønnsaker straks."
+        ],
+        "pantry": "Mengdene over gjelder denne tilberedningen. Vann til ris/pasta følger pakningen.",
+        "ingredientGroups": [
+          {
+            "title": "Biff",
+            "items": [
+              "450 g mørnede biffstrimler",
+              "1 ts olivenolje",
+              "1 ss smør",
+              "Salt og pepper etter smak"
+            ]
+          },
+          {
+            "title": "Ovnsgrønnsaker",
+            "items": [
+              "1 brokkolihode",
+              "3 gulrøtter",
+              "2 ts olivenolje og ¼ ts salt"
+            ]
+          },
+          {
+            "title": "Soppsaus",
+            "items": [
+              "1 boks sjampinjong",
+              "1 liten løk",
+              "1 ss smør",
+              "2 dl Røros-lettrømme",
+              "10 ml soyasaus (2 ts)",
+              "½ dl vann",
+              "Noen dråper sitronsaft og pepper etter smak"
+            ]
+          }
+        ],
+        "leftovers": ""
+      },
+      {
+        "id": "eksempel-dag3",
+        "day": "Onsdag",
+        "label": "Onsdag",
+        "title": "Kyllingpita med tzatziki, tomat og rødløk",
+        "note": "Ca. 25 minutter · rask hverdagsmiddag.",
+        "ingredients": [
+          "300 g rå kyllingfilet",
+          "1 ss olivenolje",
+          "1 ts mildt paprikapulver",
+          "1 ts oregano",
+          "¼ ts fint salt og litt pepper",
+          "2–3 pitabrød, etter appetitt",
+          "1 dl tyrkisk yoghurt",
+          "¼ agurk",
+          "½ lite hvitløksfedd, finrevet",
+          "1 ts sitronsaft",
+          "1 liten klype salt og litt pepper",
+          "1 tomat",
+          "¼ paprika",
+          "½ liten rødløk"
+        ],
+        "steps": [
+          "Riv agurken: Riv ¼ agurk grovt i en skål. Bland med en liten klype salt og la stå i 5 minutter.",
+          "Kutt fyllet mens agurken trekker: Kutt 1 tomat og ¼ paprika i små biter. Skjær ½ liten rødløk i tynne skiver. Legg grønnsakene i hver sin skål.",
+          "Lag tzatziki: Press væsken ut av agurken med rene hender. Bland agurken med 1 dl yoghurt, ½ revet hvitløksfedd og 1 ts sitronsaft. Smak til med pepper og eventuelt litt salt.",
+          "Stek kyllingen: Skjær 300 g rå kyllingfilet i jevne strimler. Vend med 1 ts mild paprika, 1 ts oregano, ¼ ts salt og litt pepper. Varm 1 ss olje i pannen. Stek i to omganger, vend underveis og kontroller at de tykkeste bitene er gjennomstekt, gjerne målt til 75 °C.",
+          "Varm brødene: Varm 2 pitabrød etter pakningen. Varm et tredje hvis dere trenger mer.",
+          "Fyll og server: Ha tzatziki i hver pita, deretter kylling og grønnsaker. Server rødløken separat til barnet. Ekstra fyll kan spises ved siden av."
+        ],
+        "pantry": "Mengdene over gjelder denne tilberedningen. Vann til ris/pasta følger pakningen.",
+        "ingredientGroups": [
+          {
+            "title": "Varmt fyll og brød",
+            "items": [
+              "300 g rå kyllingfilet",
+              "1 ss olivenolje",
+              "1 ts mildt paprikapulver",
+              "1 ts oregano",
+              "¼ ts fint salt og litt pepper",
+              "2–3 pitabrød, etter appetitt"
+            ]
+          },
+          {
+            "title": "Tzatziki",
+            "items": [
+              "1 dl tyrkisk yoghurt",
+              "¼ agurk",
+              "½ lite hvitløksfedd, finrevet",
+              "1 ts sitronsaft",
+              "1 liten klype salt og litt pepper"
+            ]
+          },
+          {
+            "title": "Grønnsaker",
+            "items": [
+              "1 tomat",
+              "¼ paprika",
+              "½ liten rødløk"
+            ]
+          }
+        ],
+        "leftovers": "",
+        "servingsLabel": "Til 1 voksen og 1 barn"
+      },
+      {
+        "id": "eksempel-dag4",
+        "day": "Torsdag",
+        "label": "Torsdag",
+        "title": "Penne med hjemmelaget kjøttsaus og stekt squash",
+        "note": "Ca. 35–40 minutter · karbonadedeig, tomat og grønnsaker.",
+        "ingredients": [
+          "400 g karbonadedeig",
+          "400 g Mutti Polpa (1 boks)",
+          "2 ss tomatpuré",
+          "1 løk",
+          "2 små gulrøtter",
+          "2 hvitløksfedd",
+          "1 ts oregano",
+          "½ ss olivenolje",
+          "1 dl vann",
+          "½ ts salt som utgangspunkt, pepper etter smak",
+          "200 g tørr penne",
+          "1 squash",
+          "½ ss olivenolje",
+          "1 liten klype salt",
+          "1 dl revet gulost"
+        ],
+        "steps": [
+          "Kutt til sausen: Finhakk 1 løk og 2 hvitløksfedd. Riv 2 små gulrøtter grovt.",
+          "Brun kjøttet: Varm ½ ss olje i en vid panne. Stek 400 g karbonadedeig og del den opp med stekespaden.",
+          "Stek grønnsakene: Tilsett løk og gulrot i kjøttpannen. Stek i 4–5 minutter, til løken mykner.",
+          "Bygg smaken: Rør inn hvitløk og 2 ss tomatpuré. La frese i 1 minutt under omrøring.",
+          "La sausen småkoke: Tilsett 400 g Mutti Polpa, 1 dl vann, 1 ts oregano og ½ ts salt. La småkoke uten lokk i 15–20 minutter. Rør av og til.",
+          "Kok pastaen mens sausen putrer: Kok 200 g penne etter pakningen. Spar ½ dl kokevann før du heller av.",
+          "Stek squashen: Skjær 1 squash i halvmåner. Stek i ½ ss olje i en egen panne, gjerne i to omganger, til gyllen og mør. Krydre med en liten klype salt.",
+          "Smak til sausen: Tilsett pepper og eventuelt mer salt. Er sausen tykk, spe med litt av pastavannet. Er den tynn, la koke noen minutter ekstra.",
+          "Server: Fordel penne, kjøttsaus og squash. Topp med til sammen 1 dl revet ost. De voksne kan ta mer squash og mindre pasta."
+        ],
+        "pantry": "Mengdene over gjelder denne tilberedningen. Vann til ris/pasta følger pakningen.",
+        "ingredientGroups": [
+          {
+            "title": "Kjøttsaus",
+            "items": [
+              "400 g karbonadedeig",
+              "400 g Mutti Polpa (1 boks)",
+              "2 ss tomatpuré",
+              "1 løk",
+              "2 små gulrøtter",
+              "2 hvitløksfedd",
+              "1 ts oregano",
+              "½ ss olivenolje",
+              "1 dl vann",
+              "½ ts salt som utgangspunkt, pepper etter smak"
+            ]
+          },
+          {
+            "title": "Pasta og squash",
+            "items": [
+              "200 g tørr penne",
+              "1 squash",
+              "½ ss olivenolje",
+              "1 liten klype salt"
+            ]
+          },
+          {
+            "title": "Topping",
+            "items": [
+              "1 dl revet gulost"
+            ]
+          }
+        ],
+        "leftovers": ""
+      },
+      {
+        "id": "eksempel-dag5",
+        "day": "Fredag",
+        "label": "Fredag",
+        "title": "Fredagstaco med kylling, rødløk og Como México-lefser",
+        "note": "Fredagstaco · halvparten av det ferdige fyllet settes av til søndag.",
+        "ingredients": [
+          "800 g rå kyllingfilet",
+          "1 ss olivenolje",
+          "4 ts mildt paprikapulver",
+          "3 ts spisskummen",
+          "1 ts oregano",
+          "2 hvitløksfedd, finhakket",
+          "1 ts salt som utgangspunkt og litt pepper",
+          "1,5 dl vann",
+          "1 rødløk",
+          "3 tomater",
+          "½ agurk",
+          "½ stor paprika",
+          "1 hjertesalat",
+          "1 liten boks mais",
+          "1 avokado",
+          "1–2 ts limesaft og 1 klype salt",
+          "6 Como México-lefser",
+          "½ glass mild salsa",
+          "2 dl revet gulost",
+          "1½ dl Røros-rømme",
+          "En god neve koriander",
+          "Resten av limen i båter"
+        ],
+        "steps": [
+          "Gjør klart krydderet: Bland 4 ts mild paprika, 3 ts spisskummen, 1 ts oregano og 1 ts salt. Finhakk 2 hvitløksfedd.",
+          "Stek kyllingen: Skjær 800 g kyllingfilet i små, jevne biter. Varm 1 ss olje i en stor panne og stek i flere omganger til bitene får farge. Samle kyllingen i pannen.",
+          "Krydre kyllingen: Tilsett krydderblandingen og hvitløken. Rør i 30 sekunder. Hell i 1,5 dl vann og la småputre til kyllingen er gjennomstekt (75 °C i tykkeste bit) og sausen henger på bitene. Smak til med pepper og eventuelt mer salt.",
+          "Sett av søndagens fyll: Vei den ferdige tacokyllingen og legg halvparten i en ren, grunn beholder før servering. Se resteboksen nedenfor for oppbevaring.",
+          "Kutt grønnsakene: Finhakk 1 rødløk. Kutt 3 tomater, ½ agurk og ½ paprika. Skyll og riv 1 hjertesalat. Legg alt i separate skåler.",
+          "Klargjør mais og salsa: Renn av maisboksen. Ha maisen og halve salsaglasset i serveringsskåler. Sett resten kaldt til søndag.",
+          "Lag guacamole: Mos 1 avokado med 1–2 ts limesaft og en klype salt. Smak til med litt mer lime om nødvendig.",
+          "Varm lefsene: Varm Como-lefsene etter pakningen. Hold dem myke under et rent kjøkkenhåndkle.",
+          "Sett frem: Server dagens kjøtt med lefsene, grønnsakene, guacamole, 2 dl revet ost, 1½ dl rømme, en god neve koriander og limebåter. Beregn 2 lefser per voksen og 1 til barnet, med 1 ekstra."
+        ],
+        "pantry": "Mengdene over gjelder denne tilberedningen. Vann til ris/pasta følger pakningen.",
+        "ingredientGroups": [
+          {
+            "title": "Tacokylling – totalt til fredag og søndag",
+            "items": [
+              "800 g rå kyllingfilet",
+              "1 ss olivenolje",
+              "4 ts mildt paprikapulver",
+              "3 ts spisskummen",
+              "1 ts oregano",
+              "2 hvitløksfedd, finhakket",
+              "1 ts salt som utgangspunkt og litt pepper",
+              "1,5 dl vann"
+            ]
+          },
+          {
+            "title": "Grønt – til fredag",
+            "items": [
+              "1 rødløk",
+              "3 tomater",
+              "½ agurk",
+              "½ stor paprika",
+              "1 hjertesalat",
+              "1 liten boks mais"
+            ]
+          },
+          {
+            "title": "Guacamole",
+            "items": [
+              "1 avokado",
+              "1–2 ts limesaft og 1 klype salt"
+            ]
+          },
+          {
+            "title": "Til servering",
+            "items": [
+              "6 Como México-lefser",
+              "½ glass mild salsa",
+              "2 dl revet gulost",
+              "1½ dl Røros-rømme",
+              "En god neve koriander",
+              "Resten av limen i båter"
+            ]
+          }
+        ],
+        "leftovers": "Til søndag: halvparten av ferdig kyllingfyll (tilsvarer 400 g råvekt), resten av maisen og resten av salsaen. Kjøl kyllingen raskt og sett tildekket ved høyst 4 °C innen cirka to timer. Maisrestene legges i en ren, lukket beholder; salsa oppbevares etter glasset. Behold det andre salathodet helt."
+      },
+      {
+        "id": "eksempel-dag6",
+        "day": "Lørdag",
+        "label": "Lørdag",
+        "title": "Ovnsbakt laks med ingefær, lime og wokgrønnsaker",
+        "note": "Ca. 30 minutter · ovnsbakt laks med saus til servering.",
+        "ingredients": [
+          "500 g laksefilet",
+          "30 ml soyasaus (2 ss)",
+          "1 bit ingefær, ca. 3 cm, finrevet",
+          "1 hvitløksfedd, finrevet",
+          "½ lime, saften",
+          "2 ss vann",
+          "1 ts olivenolje til formen",
+          "1 brokkolihode",
+          "1 pose KUTTA Asiatisk grøntmiks, 250 g",
+          "2 ts olivenolje",
+          "2 ss vann",
+          "4 ss majones",
+          "1–2 ts sriracha, bare i de voksnes porsjon",
+          "Mango chutney ved siden av",
+          "2 dl jasminris",
+          "½ lime i båter",
+          "En neve koriander"
+        ],
+        "steps": [
+          "Gjør klart: Sett ovnen på 180 °C over-/undervarme. Finn frem en liten ildfast form og en stor stekepanne med lokk.",
+          "Kok risen: Kok 2 dl jasminris etter pakningen.",
+          "Lag fiskesausen: Bland 30 ml soyasaus, revet ingefær, 1 revet hvitløksfedd, saften av ½ lime og 2 ss vann.",
+          "Sett fisken i ovnen: Smør formen med 1 ts olje. Legg 500 g laks med skinnsiden ned og hell sausen over. Bak midt i ovnen i ca. 12–15 minutter, avhengig av tykkelsen.",
+          "Kutt brokkolien mens fisken steker: Del ett brokkolihode i små buketter. Skrell stilken og skjær den i tynne skiver.",
+          "Stek brokkolien: Varm 2 ts olje i pannen. Stek brokkolien i 3 minutter. Tilsett 2 ss vann og legg på lokk i 2 minutter.",
+          "Tilsett grønnsaksmiksen: Ta av lokket, ha i hele KUTTA-posen og stek videre i 2–3 minutter. Grønnsakene skal bli møre med litt tyggemotstand.",
+          "Kontroller laksen: Den skal flake seg og være gjennomstekt. La stå litt lenger om midten fortsatt er rå. Tilsett en skvett vann i formen hvis sausen tørker inn.",
+          "Lag sausen: Ha 2 ss majones i en liten skål til barnet. Rør 1–2 ts sriracha inn i resten til de voksne (spicy mayo). Sett frem mango chutney ved siden av.",
+          "Server: Kontroller at fisken er uten bein. Fordel med ris og wokgrønt. Øs litt varm saus fra formen over og topp med en neve koriander. Server ½ lime i båter; smak før du salter mer."
+        ],
+        "pantry": "Mengdene over gjelder denne tilberedningen. Vann til ris/pasta følger pakningen.",
+        "ingredientGroups": [
+          {
+            "title": "Laks og saus",
+            "items": [
+              "500 g laksefilet",
+              "30 ml soyasaus (2 ss)",
+              "1 bit ingefær, ca. 3 cm, finrevet",
+              "1 hvitløksfedd, finrevet",
+              "½ lime, saften",
+              "2 ss vann",
+              "1 ts olivenolje til formen"
+            ]
+          },
+          {
+            "title": "Wokgrønnsaker",
+            "items": [
+              "1 brokkolihode",
+              "1 pose KUTTA Asiatisk grøntmiks, 250 g",
+              "2 ts olivenolje",
+              "2 ss vann"
+            ]
+          },
+          {
+            "title": "Saus til servering",
+            "items": [
+              "4 ss majones",
+              "1–2 ts sriracha, bare i de voksnes porsjon",
+              "Mango chutney ved siden av"
+            ]
+          },
+          {
+            "title": "Til servering",
+            "items": [
+              "2 dl jasminris",
+              "½ lime i båter",
+              "En neve koriander"
+            ]
+          }
+        ],
+        "leftovers": ""
+      },
+      {
+        "id": "eksempel-dag7",
+        "day": "Søndag",
+        "label": "Søndag",
+        "title": "Gratinerte paprika med tacokylling og ost",
+        "note": "Restemiddag med fredagens tacokylling · ca. 30–40 minutter.",
+        "ingredients": [
+          "3 store røde paprika",
+          "1 ts olivenolje",
+          "Alt kyllingfyllet som ble satt av fredag",
+          "1 rødløk",
+          "1 ts olivenolje",
+          "Resten av maisen fra fredag",
+          "Resten av salsaen",
+          "2 dl revet gulost",
+          "1 dl jasminris",
+          "1 hjertesalat",
+          "1 dl Røros-rømme",
+          "En neve koriander"
+        ],
+        "steps": [
+          "Varm ovnen: Sett på 220 °C over-/undervarme. Finn frem en ildfast form som rommer paprikahalvdelene.",
+          "Forbered paprikaen: Del paprikaene på langs og fjern frø og stilk. Legg med snittflaten opp og pensle med 1 ts olje.",
+          "Forstek paprikaen: Sett formen midt i ovnen i 12–15 minutter, til paprikaen begynner å mykne.",
+          "Kok risen mens paprikaen steker: Kok 1 dl jasminris etter pakningen. Den er til barnet og dem som ønsker litt ris ved siden av.",
+          "Stek løken: Finhakk 1 rødløk. Stek i 1 ts olje i en panne i 4–5 minutter, til myk.",
+          "Varm fyllet: Tilsett alt det reserverte tacokyllingen, resten av salsaen og resten av maisen. Rør til hele fyllet er rykende varmt, gjerne målt til minst 75 °C. Spe med 1–2 ss vann hvis nødvendig.",
+          "Fyll og gratiner: Fordel det varme fyllet i paprikahalvdelene. Legg det som ikke får plass, ved siden av i formen. Strø over 2 dl revet ost. Stek videre i 10–15 minutter til osten er smeltet og paprikaen mør.",
+          "Gjør tilbehøret klart mens formen steker: Skyll og riv 1 hjertesalat. Ha 1 dl rømme i en skål og hakk en neve koriander.",
+          "Server: Fordel paprika og eventuelt ekstra fyll. Server med salat, rømme, koriander og ris etter appetitt."
+        ],
+        "pantry": "Mengdene over gjelder denne tilberedningen. Vann til ris/pasta følger pakningen.",
+        "ingredientGroups": [
+          {
+            "title": "Paprikabåter",
+            "items": [
+              "3 store røde paprika",
+              "1 ts olivenolje"
+            ]
+          },
+          {
+            "title": "Varmt fyll",
+            "items": [
+              "Alt kyllingfyllet som ble satt av fredag",
+              "1 rødløk",
+              "1 ts olivenolje",
+              "Resten av maisen fra fredag",
+              "Resten av salsaen",
+              "2 dl revet gulost"
+            ]
+          },
+          {
+            "title": "Tilbehør",
+            "items": [
+              "1 dl jasminris",
+              "1 hjertesalat",
+              "1 dl Røros-rømme",
+              "En neve koriander"
+            ]
+          }
+        ],
+        "leftovers": "Bruk kyllingfyllet som ble satt av fredag og oppbevart kaldt. Kyllingen er allerede regnet med i fredagens 800 g; ingen ny kjøttpakke trengs."
+      }
+    ]
+  }
+]

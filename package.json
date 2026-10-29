@@ -1,0 +1,17 @@
+{
+  "name": "matplanlegger",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Family meal planner on Cloudflare Workers + D1, behind Cloudflare Access",
+  "type": "module",
+  "engines": {
+    "node": ">=22.13.0"
+  },
+  "scripts": {
+    "build": "node scripts/build-worker.mjs && node scripts/validate-artifact.mjs",
+    "dev": "npm run build && node scripts/preview-worker.mjs",
+    "start": "node scripts/preview-worker.mjs",
+    "test": "node --test tests/*.test.mjs",
+    "deploy": "npm test && npm run build && npx wrangler@4 deploy"
+  }
+}
