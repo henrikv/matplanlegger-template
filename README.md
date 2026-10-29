@@ -109,3 +109,7 @@ Se eksempeluken i `content/menus.json`.
 | `tests/` | Tester med SQLite i minnet |
 | `docs/START-HER.md` | Planleggingsreglene for AI-assistenten |
 | `CLAUDE.md` | Instruks til Claude Code |
+
+## Lisens
+
+MIT, se [LICENSE](LICENSE).
